@@ -126,6 +126,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
