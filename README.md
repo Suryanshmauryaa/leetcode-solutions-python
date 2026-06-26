@@ -46,6 +46,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -76,6 +77,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
