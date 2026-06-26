@@ -90,6 +90,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Prefix Sum
 |  |
 | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -101,4 +102,8 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
