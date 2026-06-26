@@ -68,6 +68,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3379-transformed-array) |
 | [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -95,6 +96,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
@@ -110,5 +112,10 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
