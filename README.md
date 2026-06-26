@@ -79,6 +79,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0190-reverse-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -118,4 +119,5 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
