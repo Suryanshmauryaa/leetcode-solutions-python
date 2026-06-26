@@ -46,6 +46,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -64,6 +65,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Simulation
 |  |
@@ -80,6 +82,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0190-reverse-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
