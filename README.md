@@ -102,6 +102,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -113,6 +114,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -129,4 +131,8 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
