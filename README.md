@@ -51,6 +51,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [3379-transformed-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3637-trionic-array-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3379-transformed-array) |
+| [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +89,8 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
