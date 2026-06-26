@@ -106,4 +106,9 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
