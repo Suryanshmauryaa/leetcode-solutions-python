@@ -51,6 +51,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3379-transformed-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3637-trionic-array-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -63,6 +64,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +82,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0001-two-sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
