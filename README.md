@@ -87,6 +87,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | ------- |
 | [0001-two-sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0012-integer-to-roman) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -117,6 +118,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0006-zigzag-conversion](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -139,6 +141,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0002-add-two-numbers](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
