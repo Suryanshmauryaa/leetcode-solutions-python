@@ -48,6 +48,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | ------- |
 | [0001-two-sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0011-container-with-most-water) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -153,6 +154,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0011-container-with-most-water) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +167,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
