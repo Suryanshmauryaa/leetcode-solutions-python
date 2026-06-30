@@ -132,6 +132,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0013-roman-to-integer](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -206,4 +207,8 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
