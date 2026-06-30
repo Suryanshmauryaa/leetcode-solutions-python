@@ -93,6 +93,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0012-integer-to-roman](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -127,6 +128,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0014-longest-common-prefix](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
@@ -160,6 +162,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
