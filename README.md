@@ -52,6 +52,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0014-longest-common-prefix](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0018-4sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -68,6 +69,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | ------- |
 | [0015-3sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0018-4sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -174,6 +176,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0011-container-with-most-water](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0018-4sum) |
 ## Linked List
 |  |
 | ------- |
