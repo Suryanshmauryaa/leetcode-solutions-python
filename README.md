@@ -109,6 +109,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0190-reverse-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -118,6 +119,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0023-merge-k-sorted-lists) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -192,6 +194,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0002-add-two-numbers](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -233,6 +236,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
