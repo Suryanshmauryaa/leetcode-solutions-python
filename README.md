@@ -58,6 +58,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3379-transformed-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3379-transformed-array) |
@@ -83,6 +84,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -211,4 +213,20 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0020-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
