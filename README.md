@@ -64,6 +64,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3640-trionic-array-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
 ## Sorting
@@ -153,6 +154,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0005-longest-palindromic-substring](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0022-generate-parentheses) |
+| [3640-trionic-array-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3640-trionic-array-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
