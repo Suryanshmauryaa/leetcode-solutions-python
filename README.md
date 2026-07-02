@@ -136,6 +136,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0014-longest-common-prefix](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -151,6 +152,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0022-generate-parentheses) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -212,6 +214,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
