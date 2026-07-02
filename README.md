@@ -61,6 +61,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3637-trionic-array-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -217,6 +218,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -225,8 +227,18 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
