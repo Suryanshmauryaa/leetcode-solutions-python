@@ -53,6 +53,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0015-3sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1840-maximum-building-height) |
@@ -194,6 +195,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0016-3sum-closest](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
 |  |
 | ------- |
