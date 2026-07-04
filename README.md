@@ -55,6 +55,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0018-4sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0031-next-permutation) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1732-find-the-highest-altitude](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
@@ -210,6 +211,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0031-next-permutation) |
 ## Linked List
 |  |
 | ------- |
