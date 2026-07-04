@@ -179,6 +179,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0012-integer-to-roman](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
