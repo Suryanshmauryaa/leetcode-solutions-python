@@ -150,6 +150,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -203,6 +204,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -286,4 +288,8 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
