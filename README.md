@@ -57,6 +57,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0027-remove-element](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0031-next-permutation) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1288-remove-covered-intervals](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
@@ -81,6 +82,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0015-3sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0018-4sum) |
+| [1288-remove-covered-intervals](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
