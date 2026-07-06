@@ -105,6 +105,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | ------- |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3379-transformed-array) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
