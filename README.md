@@ -158,6 +158,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0022-generate-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -175,6 +176,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0005-longest-palindromic-substring](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0032-longest-valid-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3640-trionic-array-ii) |
@@ -259,6 +261,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0032-longest-valid-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
