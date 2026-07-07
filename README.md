@@ -177,6 +177,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0010-regular-expression-matching](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0032-longest-valid-parentheses) |
+| [0913-cat-and-mouse](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0913-cat-and-mouse) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3640-trionic-array-ii) |
@@ -192,6 +193,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0013-roman-to-integer](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
+| [0913-cat-and-mouse](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0913-cat-and-mouse) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -290,6 +292,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Graph Theory
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0913-cat-and-mouse) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3620-network-recovery-pathways) |
@@ -301,6 +304,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Topological Sort
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0913-cat-and-mouse) |
 | [3620-network-recovery-pathways](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -310,4 +314,12 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0913-cat-and-mouse](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0913-cat-and-mouse) |
+## Game Theory
+|  |
+| ------- |
+| [0913-cat-and-mouse](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0913-cat-and-mouse) |
 <!---LeetCode Topics End-->
