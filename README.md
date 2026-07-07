@@ -195,6 +195,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [1344-angle-between-hands-of-a-clock](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
