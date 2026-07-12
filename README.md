@@ -73,6 +73,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3379-transformed-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3640-trionic-array-ii) |
@@ -91,6 +92,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2126-destroying-asteroids) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -103,6 +105,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
@@ -185,6 +188,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0032-longest-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0032-longest-valid-parentheses) |
 | [0913-cat-and-mouse](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0913-cat-and-mouse) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3640-trionic-array-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -210,6 +214,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0029-divide-two-integers](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0190-reverse-bits) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +234,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0027-remove-element](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0031-next-permutation) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -253,6 +259,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2126-destroying-asteroids) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -303,6 +310,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
