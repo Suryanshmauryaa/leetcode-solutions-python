@@ -59,6 +59,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1288-remove-covered-intervals](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1840-maximum-building-height) |
@@ -84,6 +85,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0016-3sum-closest](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0018-4sum) |
 | [1288-remove-covered-intervals](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -119,6 +121,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3532-path-existence-queries-in-a-graph-i) |
