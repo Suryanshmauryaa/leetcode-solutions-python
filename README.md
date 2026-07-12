@@ -56,6 +56,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0066-plus-one) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1288-remove-covered-intervals](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1301-number-of-paths-with-max-score) |
@@ -202,6 +203,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0012-integer-to-roman](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
 | [0913-cat-and-mouse](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0913-cat-and-mouse) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1344-angle-between-hands-of-a-clock) |
