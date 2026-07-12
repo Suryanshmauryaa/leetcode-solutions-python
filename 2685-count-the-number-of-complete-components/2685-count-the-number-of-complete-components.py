@@ -1,0 +1,38 @@
+from collections import defaultdict
+
+class Solution:
+    def countCompleteComponents(self, n: int, edges):
+        graph = defaultdict(list)
+
+        for u, v in edges:
+            graph[u].append(v)
+            graph[v].append(u)
+
+        visited = [False] * n
+        answer = 0
+
+        def dfs(node):
+            visited[node] = True
+
+            nodes = 1
+            degree_sum = len(graph[node])
+
+            for nei in graph[node]:
+                if not visited[nei]:
+                    x, y = dfs(nei)
+                    nodes += x
+                    degree_sum += y
+
+            return nodes, degree_sum
+
+        for i in range(n):
+            if not visited[i]:
+
+                nodes, degree_sum = dfs(i)
+
+                edges_in_component = degree_sum // 2
+
+                if edges_in_component == nodes * (nodes - 1) // 2:
+                    answer += 1
+
+        return answer
