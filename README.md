@@ -97,6 +97,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
