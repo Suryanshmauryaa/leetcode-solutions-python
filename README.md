@@ -80,6 +80,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [3640-trionic-array-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3640-trionic-array-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [2126-destroying-asteroids](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2126-destroying-asteroids) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -116,6 +118,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [3379-transformed-array](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3379-transformed-array) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +214,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [1840-maximum-building-height](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -238,6 +242,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0031-next-permutation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -345,4 +350,8 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0913-cat-and-mouse) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
