@@ -174,6 +174,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0067-add-binary) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -264,6 +265,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/2126-destroying-asteroids) |
@@ -286,6 +288,7 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/0032-longest-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -354,4 +357,8 @@ print(solution.twoSum([2, 7, 11, 15], 9))
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suryanshmauryaa/leetcode-solutions-python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
